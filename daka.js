@@ -16,14 +16,14 @@ function GetSeq(){
 }
 
 function Sign(){
-  const url = `https://student.wozaixiaoyuan.com/heat/save.json`;
+  const url = `https://gw.wozaixiaoyuan.com/heat/save.json`;
   const method = `POST`;
   const headers = {
   'Accept-Encoding' : `gzip,compress,br,deflate`,
   'content-type' : `application/x-www-form-urlencoded`,
   'Connection' : `keep-alive`,
   'Referer' : `https://servicewechat.com/wxce6d08f781975d91/149/page-frame.html`,
-  'Host' : `student.wozaixiaoyuan.com`,
+  'Host' : `gw.wozaixiaoyuan.com`,
   'User-Agent' : `Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.18(0x17001229) NetType/4G Language/zh_CN`,
   'token' : $prefs.valueForKey(KEY)
   };
