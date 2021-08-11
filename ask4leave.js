@@ -52,15 +52,15 @@ function prepareApproveTime(time){
 //学生id
 studentId = "213231342334566589"
 //姓名
-studentName = "陈少一"
+studentName = "迪迦"
 //校区
-location = "[\"广州校区\"]"
+location = "[\"校区\"]"
 //紧急联系人
-tel = "18982192888"
+tel = "18888888888"
 //请假理由
-reason = "外出实习"
+reason = "外出不知道"
 //外出地点
-route = "金融城"
+route = "光之国"
 //用户头像 默认随机
 userHead = "http://lorempixel.com/200/200/"
 //请假类型 事假 病假 实习 科研 出差 回家
@@ -72,9 +72,9 @@ state = 2
 
 //审批信息
 //辅导员姓名
-approveName = "李少洁"
+approveName = "奥特之王"
 //辅导员学院
-approveAcademy = "金融学院"
+approveAcademy = "光之学院"
 //辅导员头像 默认随机
 approveHead = "http://lorempixel.com/400/400/"
 //审批理由
