@@ -28,7 +28,7 @@ function getFormatTime(time,flag) {
 }
 
 //请假理由
-title = "外出实习"
+title = "保护地球"
 //请假类型 事假 病假 实习 科研 出差 回家
 type = "事假" 
 //假条状态 3假期中
